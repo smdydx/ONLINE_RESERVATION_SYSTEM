@@ -24,5 +24,6 @@ Cancellation Form – If passengers want to cancel their tickets then they have 
 PNR number and after submitting it, this will display the entire information related to that
 particular PNR number. If users want to confirm their cancellation, in this case they have to press
 OK button.
-![Screenshot 2023-07-25 181256](https://github.com/smdydx/ONLINE_RESERVATION_SYSTEM/assets/77625439/5bf328b4-b8c0-4269-bb05-5d972ea1502c)
-![Screenshot 2023-07-25 181449](https://github.com/smdydx/ONLINE_RESERVATION_SYSTEM/assets/77625439/d97116fc-1472-4063-94a9-ae75a975d189)
+![Screenshot 2023-07-25 192251](https://github.com/smdydx/ONLINE_RESERVATION_SYSTEM/assets/77625439/c21347b0-bca0-4504-91c5-d8cab84a6aae)
+
+![Screenshot 2023-07-25 192153](https://github.com/smdydx/ONLINE_RESERVATION_SYSTEM/assets/77625439/38d6e070-38cb-4536-b6c2-7a27074370c3)
